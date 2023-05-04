@@ -7,6 +7,7 @@ public class sample {
 	{
 		// TODO Auto-generated method stub
 		System.out.print("hai");
+System.out.println(“new project work”);
 
 	}
 
